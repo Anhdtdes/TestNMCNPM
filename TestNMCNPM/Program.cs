@@ -15,6 +15,8 @@ namespace TestNMCNPM
         static void Main()
         {
             //test
+            //Dang Tien ANh 
+            .//
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
